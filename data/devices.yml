@@ -1,9 +1,15 @@
 JOYEUSE_global:
 - Redmi Note 9/S/Pro/T Global
 - JOYEUSEGlobal
+curtana_EEAglobal:
+- Redmi Note 9/S/Pro/T GlobalEEA
+- CURTANAEEAGlobal
 curtana_INglobal:
 - Redmi Note 9/S/Pro/T GlobalIN
 - CURTANAINGlobal
+curtana_RUglobal:
+- Redmi Note 9/S/Pro/T GlobalRU
+- CURTANARUGlobal
 curtana_global:
 - Redmi Note 9/S/Pro/T Global
 - CURTANAGlobal
